@@ -1,6 +1,6 @@
 # VUT FIT IAL
 
-Projekty do předmětu Algoritmy na VUT FIT
+Projekty do předmětu Algoritmy na VUT FIT 3. semestr, zima
 
 Projekt 1:
 - C201: jednosměrně vázaný lineární seznam
